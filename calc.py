@@ -9,10 +9,10 @@ def divide(x,y):
   return x//y #divide two numbers
 
 print("select operation")
-print("'1':ADD")
-print("'2': SUBTRACT")
-print("'3':MULTIPLY")
-print("'4':DIVIDE")
+print("'1':Add")
+print("'2': Subtract")
+print("'3':Multiply")
+print("'4':Divide")
 
 user_choice= input ("enter the operation index")
 num_1= int(input("enter the first number"))
